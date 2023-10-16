@@ -1,0 +1,431 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.frist {
+   
+    background-image: url(NASA_files/8d7c20ac68be244aa1f9f7411f13db06.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: cover; 
+    overflow-x: hidden;
+    height: 700px;
+    width: 1079px;
+}
+ .logo{
+    position:relative;
+    right: 90px;
+    top: 20px;
+    font-size: 28px;
+    font-weight: bolder;
+}
+ nav { 
+    color: white;
+    width: 100%;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   
+}
+
+nav li {
+   font-size: 15px;
+   font-weight: 10px;
+   margin: 0 19px;
+   position: relative;
+   left: 140px;
+   top: 20px;
+    display: inline-block;
+    
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    width: 100%;
+}
+nav a:hover{
+    color: darkgrey;
+}
+#one1{
+    color: white;
+    font-size: 65px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 60px;
+    position: relative;
+    top: 100px;
+    left: 150px;
+}
+#two1{
+    color: whitesmoke;
+    font-size: 14px;
+    font-weight: 30px;
+     font-style: italic; 
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 21px;
+    position: relative;
+    top:150px ;
+    left: 150px;
+
+}
+ #two1 a{
+    
+    font-size: 15px; 
+    font-weight: 100px ; 
+    color:lightblue;
+    text-decoration: none; 
+}
+#three1 a{
+    color: white;
+    position: relative;
+    top: 180px;
+    left: 150px;
+    text-decoration: none;
+}
+ .line{
+    background-color: white;
+    border: 0.1px dashed;
+    height: 0.5px;
+    width: 65px;
+    display: inline-block;
+    position: relative;
+    top: 170px;
+    left:150px ;
+ }
+ .second{
+    background-color: rgb(34, 32, 32);
+    height:750px ;
+    width: 1079px;
+    overflow-x:hidden;
+    overflow-y: hidden;
+
+ }
+ .second1{
+    height: 750px;
+    width:600px;
+    /* border: 1px solid white; */
+ }   
+ .firstpic{
+    position: relative;
+    top: 300px;
+    left:300px ;
+    overflow-y: hidden;
+    overflow-x: hidden;
+} 
+.secondpic{
+    position: absolute;
+    left: 150px;
+    top: 850px; 
+    box-shadow: 40px 30px rgb(65, 60, 60);
+}
+.para{
+    /* border: 1px solid white; */
+    height: 700px;
+    width: 400px;
+    position: relative;
+    left: 650px;
+    bottom: 130px;
+}
+ #two3{
+    color: white;
+    font-size:23px ;
+    font-weight: 4px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 45px;
+ }
+ .second2{
+   background-color: rgb(238, 11, 11);
+    /* border:2px solid; */
+    height: 2px;
+    width: 300px;
+    display: inline-block;
+     position: relative;
+     bottom: 30px;
+ 
+ }
+ #two4{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 25px;
+}
+#two5{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 25px; 
+}  
+#two6{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 25px; 
+}  
+.third{
+    background-color: rgb(65, 62, 62);
+    height:670px ;
+    width: 1079px;
+    overflow-x:hidden;
+    overflow-y: hidden;
+}
+#three3{
+    color: white;
+    font-size: 48px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    top: 40px;
+    left: 100px;
+}
+.thirty1{
+   background-color:rgb(238, 11, 11);
+    height: 2.5px ;
+    width: 70px;
+    display: inline-block;
+    position: relative;
+    bottom: 430px;
+    left: 100px;
+}
+ #thirdpic{
+    overflow-y: hidden;
+    overflow-x: hidden;
+    position: relative;
+    top: 110px;
+    left: 25px; 
+} 
+.four{
+    background-color: rgb(34, 32, 32);
+    height: 450px;
+    width: 1079px;
+}
+#four1{
+  color: white;
+  width: 450px;
+  position: relative;
+  top: 60px;
+  left: 100px;
+  padding-bottom: 50px;
+  line-height: 23px;
+
+}
+#four2{
+  color: white;
+  width: 450px;
+  position: relative;
+  top: 40px;
+  left: 100px;
+  line-height: 23px;
+
+}
+#four3{
+    color: white;
+    width: 450px;
+   position: relative;
+   bottom:265px  ;
+  left: 550px;
+  padding-bottom: 50px;
+  line-height: 23px;
+
+}
+#four4{
+    color: white;
+    width: 450px;
+    line-height: 23px;
+  position: relative;
+  bottom: 280px;
+  left: 550px;
+}
+#four5 a{
+    color: rgb(207, 22, 22);
+    position: relative;
+    bottom: 260px;
+    left: 550px;
+}
+ .five{
+    background-color: rgb(34, 32, 32);
+    height: 700px;
+    width: 1079px;
+} 
+.five1pic{
+    overflow-x: hidden;
+    overflow-y: hidden;
+    position: relative;
+    margin-left: 600px;
+    
+}  
+#five22{ 
+    box-shadow: 40px 50px rgb(138, 136, 136); 
+} 
+  .five2pic{ 
+    position: relative;
+     bottom: 100px;  
+     margin-left: 450px; 
+     overflow-x: hidden;
+     overflow-y: hidden;
+}
+  #word1{
+    color: white;
+    font-weight: 10px;
+    font-size: 25px;
+    position: relative;
+    bottom: 750px;   
+   margin-left: 100px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    overflow-x: hidden;
+    overflow-y: hidden;
+     }   
+#fou4{
+    background-color:rgb(238, 11, 11);
+    height: 2.5px ;
+    width: 70px;
+    display: inline-block;
+    position: relative;
+    bottom: 730px;
+    left: 100px;
+}
+  #word2{
+    color: white;
+    font-weight: 12px; 
+    font-size: 16px;
+    position: relative;
+    bottom: 715px;
+  margin-left:  100px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 23px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+ #word3{
+    color: white;
+    font-weight: 12px;
+    font-size: 16px;
+    position: relative;
+    bottom: 690px;   
+   margin-left: 100px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height:23px ;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+#but1{
+   
+    position: relative;
+    bottom: 650px;  
+margin-left:100px ;
+}  
+.six{
+    height: 760px;
+    width: 1079px;
+    background-color: rgb(39, 35, 35);
+ }   
+ #sixp1{
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+     margin-left: 70px;
+    top: 50px;
+    opacity: 0.9;
+ } 
+#sixp2{ 
+    position: relative;
+    margin-left: 550px;
+   bottom: 660px; 
+   opacity: 1;
+  }   
+   #sixw1{
+    color: white;
+    font-size: 27px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    bottom: 370px;
+    margin-left: 100px;
+    opacity: 1;
+}
+
+   #sixw2{ 
+    height: 1.1px;
+    width: 60px;
+   background-color: white;
+    position: relative;
+    bottom: 360px;
+   margin-left: 180px;
+    display: inline-block;
+    opacity: 1;
+     }
+    #sixw3{ color: white;
+    font-size: 16px;
+    font-weight: 30px;
+    line-height: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    bottom: 330px;
+    right: 280px;
+    text-align: center;
+    opacity: 1;
+ }   
+ #sixw4{
+    color: white;
+    font-size: 18px; 
+    position: relative;
+    bottom: 300px;
+   margin-left:150px;
+   opacity: 1;
+ }
+ #sixw11{
+    color: white;
+    font-size: 27px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    bottom: 370px;
+    margin-left:  100px;
+    
+}
+
+   #sixw21{ 
+    height: 1.1px;
+    width: 60px;
+   background-color: white;
+    position: relative;
+    bottom: 370px;
+    left:  180px;
+    display: inline-block;
+    
+     }
+   
+
+ 
+   #sixw31{ color: white;
+    font-size: 16px;
+    font-weight: 30px;
+    line-height: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    bottom: 330px;
+
+   right: 40px; 
+    text-align: center; 
+ }   
+ #sixw41{
+    color: white;
+    font-size: 18px; 
+    position: relative;
+    bottom: 265px;
+    left:  150px;
+    
+ }
+ .seven{
+    height: 400px;
+    width: 1079px;
+    background-color: rgb(19, 17, 17);
+ }
+ .seven1{
+    position: relative;
+    bottom: 130px;
+ } 
+ #seven2{
+    color:grey;
+    font-size: 30px;
+    font-weight: 10px;
+    text-align: center;
+    position: relative;
+    top: 65px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
